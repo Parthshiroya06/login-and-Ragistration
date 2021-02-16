@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "307477741368",
+    "firebase_url": "https://registration-d3b05.firebaseio.com",
+    "project_id": "registration-d3b05",
+    "storage_bucket": "registration-d3b05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307477741368:android:fc8ded7444fada5cfecbcd",
+        "android_client_info": {
+          "package_name": "com.conveter.registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307477741368-e506u1kjiudu2ek7frea6ung4ngtup77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo_WdfRvOOo2z-vIKoKcEeNqr9t0M528M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307477741368-e506u1kjiudu2ek7frea6ung4ngtup77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
